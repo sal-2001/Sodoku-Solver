@@ -12,11 +12,11 @@ function App() {
         <Switch>
           <Route path="/solution">
             <Output />
-            <div className="copyright">Developed by &copy; Shijith</div>
+            <div className="copyright">Developed by &copy; Sabeel</div>
           </Route>
           <Route path="/">
             <Input />
-            <div className="copyright">Developed by &copy; Shijith</div>
+            <div className="copyright">Developed by &copy; Sabeel</div>
           </Route>
         </Switch>
       </Router>
